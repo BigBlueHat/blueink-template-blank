@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Blank/starter theme for BlueInk",
   "author": "BigBlueHat",
-  "license": "CC-by-A",
+  "license": "Apache-2.0",
   "repository": "https://github.com/BigBlueHat/blueink-template-blank.git",
   "dependencies": {
   },
