@@ -1,10 +1,10 @@
 {
-  "name": "blueink-template-enlighten",
+  "name": "blueink-template-blank",
   "version": "0.1.0",
-  "description": "Enlight theme by Styleshout.com ported to BlueInk (on CouchDB)",
+  "description": "Blank/starter theme for BlueInk",
   "author": "BigBlueHat",
   "license": "CC-by-A",
-  "repository": "https://github.com/BigBlueHat/blueink-template-enlighten.git",
+  "repository": "https://github.com/BigBlueHat/blueink-template-blank.git",
   "dependencies": {
   },
   "devDependencies": {
